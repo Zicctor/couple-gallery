@@ -47,7 +47,7 @@ export function Navbar() {
             href="/login"
             className="hidden sm:inline-flex text-[#93E1D8] hover:text-[#FFA69E] font-medium transition-colors"
           >
-            Login
+            Đăng nhập
           </Link>
           <MobileMenu />
         </div>
