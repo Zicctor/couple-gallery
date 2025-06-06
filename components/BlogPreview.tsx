@@ -17,7 +17,7 @@ const blogPosts = [
     title: 'Lorem Ipsum',
     excerpt: 'Lorem Ipsum.',
     date: 'Tháng Tư 28, 2025',
-    image: 'https://images.pexels.com/photos/985266/pexels-photo-985266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://images.pexels.com/photos/1477166/pexels-photo-1477166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     author: 'Lorem Ipsum',
   }
 ];
